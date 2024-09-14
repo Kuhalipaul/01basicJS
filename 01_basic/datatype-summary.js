@@ -12,7 +12,7 @@ const isLoggedIn=false
 const outsideTemp=null
 let userEmail;
 
-const id=symbol("123")
+const id= Symbol("123")
 const anotherId= Symbol('123')
 
 // console.log(id=== anotherId);
