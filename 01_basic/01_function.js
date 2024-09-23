@@ -10,7 +10,7 @@
 // const result=addTwoNumbers(3,5);
 // console.log("Result:",result);
 
-function loginUserMessage(username){
+function loginUserMessage(username="kuhu"){
     if(!username){
         console.log("please enter the username")
         return
